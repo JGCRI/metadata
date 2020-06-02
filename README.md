@@ -9,5 +9,5 @@ This repository includes metadata XML forms that build upon a schema provided by
 The following meatadata forms are now available for use:
 
 | Parent Software | Form Name |
-| -- | -- | -- |
-| GCAM | `gcam_metadata` |
+|:-:|:-:|
+| GCAM | `gcam_metadata.xml` |
