@@ -10,4 +10,5 @@ The following meatadata forms are now available for use:
 
 | Parent Software | Form Name |
 |:-:|:-:|
-| TBD | `tbd.xml` |
+| GCAM | `gcam_metadata.xml` |
+| Hector | `hector_metadata.xml` |
